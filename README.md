@@ -10,4 +10,3 @@ The 64-channel version is implemented by K. Hu for the paper “Unvoiced speech 
 Please cite corresponding papers when you use any programs.
 
 You will find a detailed README file under each folder.
-

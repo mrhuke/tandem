@@ -17,7 +17,7 @@ void initVoicedMask(gammaToneFilterBank *&AudiPery, voicedMask *&TGroup)
 	gammaTonePara y;
 
 	y.lCF = 50;	 y.rCF = 8000;
-	y.nChan = 128; y.sf = 20000;
+	y.nChan = 128; y.sf = 16000;
 	
 	x.gtP = y;
 	x.bP1 = 50; x.bP2 = 450; x.bPTs = 20;
